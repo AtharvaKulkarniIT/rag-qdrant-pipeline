@@ -1,8 +1,11 @@
-# rag-qdrant-pipeline 🚀
+# RAG-Qdrant-pipeline 
 
 ## Overview
 
-**Qdrant RAG** is a powerful implementation of a Retrieval-Augmented Generation (RAG) model leveraging Qdrant as a vector store and Google Gemini for generative AI. This project enables intelligent document retrieval and response generation based on the context extracted from various PDF documents. 📄
+A powerful implementation of a Retrieval-Augmented Generation (RAG) model leveraging Qdrant as a vector store and Google Gemini for generative AI. This project enables intelligent document retrieval and response generation based on the context extracted from various PDF documents. 📄
+
+**Architecture:**
+![Architecture](https://drive.google.com/uc?export=download&id=1v3ddsQzANWDlaxKOMzahgpC_g3Emn3zd)
 
 ## Table of Contents
 
