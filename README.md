@@ -9,7 +9,7 @@ A powerful implementation of a Retrieval-Augmented Generation (RAG) model levera
 
 ## Table of Contents
 
-- [Features](#features)
+- [Workflow](#workflow)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,14 +18,14 @@ A powerful implementation of a Retrieval-Augmented Generation (RAG) model levera
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Workflow
 
 - 📥 Load and process PDF documents from a specified directory.
 - ✂️ Split documents into manageable chunks for efficient processing.
-- 🔍 Use SentenceTransformers for generating embeddings.
+- 🔗 Use SentenceTransformers for generating embeddings.
 - 💾 Store embeddings in Qdrant for fast retrieval.
 - 🤖 Leverage Google Gemini for advanced question answering.
-- 🔗 Hybrid search implementation combining vector similarity and keyword matching.
+- 🔍 Hybrid search implementation combining vector similarity and keyword matching.
 - 📝 Detailed context-aware responses based on user queries.
 
 ## Technologies Used
